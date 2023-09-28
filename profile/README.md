@@ -2,10 +2,14 @@
 
 The Agile Learning Institute is a 501(c)3 educational nonprofit who’s mission is to provide free mentorship and one-on-one coaching services to support software engineers. We meet you where you are and accelerate your success. We work with partners to seek out and serve people who are under-represented in the industry. We also support an open Engineering Guild, that provides lifelong learning and peer support services to our members.
 
-## Repositories of interest
+## A note for institute Members
 
-See here for information about key repositories
+Before you create a new repository, make sure you are following the naming conventions found in one of the pinned repositories. Review the information in these projects before creating new repositories.
 
-- The [Institute](https://github.com/agile-learning-institute/institute) repository describes the systems used to manage information about members, partners, mentors, and donor's. These systems are developed, improved, and operated by our members.
+- The [institute-](https://github.com/agile-learning-institute/institute) prefix repositories support the systems that the members have created to help run the institute.
 
-- The [stageZero](https://github.com/agile-learning-institute/stageZero) repository describes the stageZero platform for launching new ideas. This system is designed, developed, and improved by members, and is open source.
+- The [stageZero-](https://github.com/agile-learning-institute/stageZero) prefix repositories contain the different components of the stageZero product.
+
+- The [member-](https://github.com/agile-learning-institute/members) prefix is for amazing member projects, both public and private. 
+
+- The [koan-](https://github.com/agile-learning-institute/koans) prefix is for programming koans, that use test driven developement techniques to teach different topics. 
