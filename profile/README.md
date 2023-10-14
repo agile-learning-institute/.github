@@ -1,6 +1,6 @@
 # the Agile Learning Institute
 
-The Agile Learning Institute is a 501(c)3 educational nonprofit who’s mission is to provide free mentorship and one-on-one coaching services to support software engineers. We meet you where you are and accelerate your success. We work with partners to seek out and serve people who are under-represented in the industry. We also support an open Engineering Guild, that provides lifelong learning and peer support services to our members.
+The Agile Learning Institute is a 501(c)3 educational nonprofit who’s mission is to provide free mentorship and one-on-one coaching services to support software engineers. We meet you where you are and accelerate your success. We work with partners to seek out and serve people who are under-represented in the industry. We also support an open Engineering Guild, that provides lifelong learning and peer support services to our members. Join our [Discord](https://discord.gg/xhPNqGvb) if you have questions or just want to drop in and listen to chatter!
 
 ## A note for institute Members
 
