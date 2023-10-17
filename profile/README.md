@@ -1,12 +1,3 @@
-# the Agile Learning Institute
-
-The Agile Learning Institute is a nonprofit who’s mission is to provide free mentorship and one-on-one coaching services to support software engineers. Like, follow, share etc. us on all the platforms.
-
-- [https://agile-learning.institute](https://agile-learning.institute)
-- [https://www.linkedin.com/school/agile-learning-institute/](https://www.linkedin.com/school/agile-learning-institute/)
-- [https://github.com/agile-learning-institute](https://github.com/agile-learning-institute)
-- [https://discord.gg/xhPNqGvb](https://discord.gg/xhPNqGvb)
-
 ## A note for institute Members
 
 Before you create a new repository, make sure you are following the naming conventions found in one of the pinned repositories. Review the information in these projects before creating new repositories.
