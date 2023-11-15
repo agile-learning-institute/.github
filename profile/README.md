@@ -2,7 +2,7 @@
 
 Before you create a new repository, make sure you are following the naming conventions found in one of the pinned repositories. Review the information about these projects before creating new repositories.
 
-- [mentorHub-](https://github.com/agile-learning-institute/mentorhub) is the system designed, built, and run by our members to suppor our operations.
+- [mentorHub-](https://github.com/agile-learning-institute/mentorhub) is the system designed, built, and run by our members to support our operations.
 
 - [stageZero-](https://github.com/agile-learning-institute/stageZero) is the stageZero product.
 
