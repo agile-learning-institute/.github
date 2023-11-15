@@ -1,10 +1,10 @@
-## A note for institute Members
+# A note for institute Members
 
-Before you create a new repository, make sure you are following the naming conventions found in one of the pinned repositories. Review the information in these projects before creating new repositories.
+Before you create a new repository, make sure you are following the naming conventions found in one of the pinned repositories. Review the information about these projects before creating new repositories.
 
-- The [institute-](https://github.com/agile-learning-institute/institute) prefix repositories support the systems that the members have created to help run the institute.
+- [mentorHub-](https://github.com/agile-learning-institute/mentorhub) is the system designed, built, and run by our members to suppor our operations.
 
-- The [stageZero-](https://github.com/agile-learning-institute/stageZero) prefix repositories contain the different components of the stageZero product.
+- [stageZero-](https://github.com/agile-learning-institute/stageZero) is the stageZero product.
 
 - The [member-](https://github.com/agile-learning-institute/members) prefix is for amazing member projects, both public and private.
 
